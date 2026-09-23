@@ -2,6 +2,7 @@
 Example lesson stub
 */
 --Some explanation
+
 SELECT   ps.PatientId,
          ps.AdmittedDate,
          ps.DischargeDate,
